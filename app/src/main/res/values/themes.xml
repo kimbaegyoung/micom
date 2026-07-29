@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Compose 앱이라 XML 테마는 NoActionBar 프레임워크 테마만 있으면 됨 -->
+    <style name="Theme.CoolerComm" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
